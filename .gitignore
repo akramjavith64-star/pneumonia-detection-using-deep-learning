@@ -1,0 +1,7 @@
+pneumonia_env/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
